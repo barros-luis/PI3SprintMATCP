@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="600bda66-9a85-40ca-815f-9cb61eaaa06b" name="Changes" comment="Updated the code for US16.">
+    <list default="true" id="600bda66-9a85-40ca-815f-9cb61eaaa06b" name="Changes" comment="Updated the introduction and analysis for US16.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
     </list>
@@ -101,7 +101,9 @@
       <workItem from="1716403639687" duration="3452000" />
       <workItem from="1716558585822" duration="5194000" />
       <workItem from="1716659205267" duration="1748000" />
-      <workItem from="1716739173976" duration="5511000" />
+      <workItem from="1716739173976" duration="5550000" />
+      <workItem from="1716904510018" duration="21000" />
+      <workItem from="1716909194438" duration="2349000" />
     </task>
     <task id="LOCAL-00001" summary="Starting files">
       <option name="closed" value="true" />
@@ -127,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716564765550</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated the introduction and analysis for US16.">
+      <option name="closed" value="true" />
+      <created>1716745487891</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716745487891</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,6 +159,7 @@
     <MESSAGE value="Starting files" />
     <MESSAGE value="Completed the code for US16." />
     <MESSAGE value="Updated the code for US16." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the code for US16." />
+    <MESSAGE value="Updated the introduction and analysis for US16." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the introduction and analysis for US16." />
   </component>
 </project>
