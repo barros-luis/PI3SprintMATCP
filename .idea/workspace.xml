@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="600bda66-9a85-40ca-815f-9cb61eaaa06b" name="Changes" comment="Updated the introduction and analysis for US16.">
+    <list default="true" id="600bda66-9a85-40ca-815f-9cb61eaaa06b" name="Changes" comment="Finished(probably) US16.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,9 @@
       <workItem from="1716659205267" duration="1748000" />
       <workItem from="1716739173976" duration="5550000" />
       <workItem from="1716904510018" duration="21000" />
-      <workItem from="1716909194438" duration="2349000" />
+      <workItem from="1716909194438" duration="2483000" />
+      <workItem from="1716997325828" duration="26000" />
+      <workItem from="1717509539207" duration="42000" />
     </task>
     <task id="LOCAL-00001" summary="Starting files">
       <option name="closed" value="true" />
@@ -137,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716745487891</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished(probably) US16.">
+      <option name="closed" value="true" />
+      <created>1716911681576</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716911681576</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +169,7 @@
     <MESSAGE value="Completed the code for US16." />
     <MESSAGE value="Updated the code for US16." />
     <MESSAGE value="Updated the introduction and analysis for US16." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the introduction and analysis for US16." />
+    <MESSAGE value="Finished(probably) US16." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished(probably) US16." />
   </component>
 </project>
